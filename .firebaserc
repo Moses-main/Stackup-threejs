@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "chizaram-moses-stackup-threejs"
-  }
+    "default": "chizaram-moses-stackup-threejs",
+    "staging": "chizaram-moses-stackup-threejs"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
