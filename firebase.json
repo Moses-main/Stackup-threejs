@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public", // The directory that contains your app files
+    "public": "dist", // Assuming 'dist' is your build output directory
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
